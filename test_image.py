@@ -149,3 +149,4 @@ predictor(img)
 y = datetime.datetime.now()
 
 print((y-x).microseconds)
+print((y-x).seconds)
